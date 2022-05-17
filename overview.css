@@ -1,0 +1,77 @@
+.logo{
+    width:60px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left:110px;
+}
+.navbar-nav .nav-item .nav-link{
+    margin-right:25px;
+    color: black;
+    font-weight: bold;
+}
+.icon i{
+    margin-right: 10px;
+    position: relative;
+    top: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.head{
+    font-size: 30px;
+}
+.home{
+    font-size: 20px;
+    
+}
+
+
+
+
+.imgovr{
+    height: 334px;
+    width: 512px;
+    border: 7px solid white;
+    border-radius: 10px;
+}
+table td{
+    border: 1px solid black;
+    padding: 5px;
+    border-collapse: collapse;
+}
+
+
+/* last */
+.cop h3{
+    font-size: 15px;
+}
+.cop1 h3{
+    font-size: 15px;
+}
+.cop2 h3{
+    font-size: 15px;
+}
+.cop3 h3{
+    font-size: 15px;
+}
+
+
+
+/* footer */
+.footer h3{
+    font-size: 15px;
+  }
+  
+  .icon2 i{
+      margin-left: 20px;
+      font-size: 25px;
+  }

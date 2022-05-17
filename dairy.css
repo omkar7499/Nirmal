@@ -1,0 +1,9 @@
+.hr1{
+    background-color: green;
+    height: 2px;
+    width:5%;
+    margin: 15px auto;
+}
+.amul{
+    background-image: linear-gradient(335deg, #75ea6e,white,#ffa500cc);
+}

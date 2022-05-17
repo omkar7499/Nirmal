@@ -1,0 +1,126 @@
+/* navbar css */
+.logo{
+    width:60px;
+    height: 60px;
+    margin-top: 10px;
+    margin-left:110px;
+}
+.navbar-nav .nav-item .nav-link{
+    margin-right:25px;
+    color: black;
+    font-weight: bold;
+}
+.icon i{
+    margin-right: 10px;
+    position: relative;
+    top: 10px;
+}
+
+/* main section css */
+.amulimg1{
+    width: 250px;
+    height: 150px;
+}
+.amulimg2{
+    width: 250px;
+    height: 200px;
+    margin-top: 30px;
+}
+.amulimg3{
+    width: 250px;
+    height: 200px;
+    margin-top: 30px;
+}
+.amulimg7{
+    width: 250px;
+    height: 200px;
+    margin-top: 30px;  
+}
+.amulimg4{
+    width: 200px;
+    height: 200px;
+    margin-top: -10px;
+    margin-right: 20px;
+
+}
+.amulimg5{
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+.google{
+    width: 100px;
+    height: 35px;
+    margin-top: 30px; 
+}
+.apple{
+    width: 100px;
+    height: 35px;
+    margin-top: 20px;  
+}
+.amul6{
+    width: 200px;
+    height: 200px;
+    margin-top: 20px;
+    margin-right: 20px; 
+}
+#Amulsec{
+    background-image: linear-gradient(335deg, #75ea6e,white,#ffa500cc);
+}
+.slider{
+    height: 400px;
+}
+.hr1{
+    background-color: green;
+    height: 2px;
+    width:5%;
+    margin: 15px auto;
+}
+
+
+/* events */
+.hr2{
+    background-color: green;
+    height: 2px;
+    width:5%;
+    margin: 15px auto;  
+}
+.text{
+    color: black;
+}
+.cal1{
+    height: 100px;
+    width: 100px;
+    padding: 1%;
+    margin-right: 50px;
+
+}
+
+/* last */
+.cop h3{
+    font-size: 15px;
+}
+.cop1 h3{
+    font-size: 15px;
+}
+.cop2 h3{
+    font-size: 15px;
+}
+.cop3 h3{
+    font-size: 15px;
+}
+[data-aos][data-aos][data-aos-duration="400"], body[data-aos-duration="400"] [data-aos] {
+    transition-duration: 4s !important;
+}
+
+
+/* footer */
+.footer h3{
+  font-size: 15px;
+}
+
+.icon2 i{
+    margin-left: 20px;
+    font-size: 25px;
+}
